@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:bacon_sandwich",
+    "farmersdelight:barbecue_stick",
+    "farmersdelight:chicken_sandwich",
+    "farmersdelight:fried_egg",
+    "farmersdelight:hamburger",
+    "farmersdelight:honey_glazed_ham_block",
+    "farmersdelight:mutton_wrap",
+    "farmersdelight:roast_chicken_block",
+    "farmersdelight:shepherds_pie_block",
+    "farmersdelight:smoked_ham",
+    "farmersdelight:steak_and_potatoes",
+    "farmersdelight:stuffed_potato",
+    "farmersdelight:ham",
+    "farmersdelight:beef_stew",
+    "farmersdelight:baked_cod_stew",
+    "farmersdelight:chicken_soup",
+    "farmersdelight:fish_stew",
+    "farmersdelight:pasta_with_meatballs",
+    "farmersdelight:pasta_with_mutton_chop",
+    "farmersdelight:squid_ink_pasta",
+    "expandeddelight:asparagus_and_bacon_cheesy"
+  ]
+}
