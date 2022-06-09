@@ -12,7 +12,7 @@
     "homepage": "https://github.com/ninjaeagle1000",
     "sources": "https://github.com/ninjaeagle1000/origins-delight"
   },
-  "license": "GNU GPLv2",
+  "license": "GPLv2",
   "icon": "pack.png",
 
   "environment": "*",
