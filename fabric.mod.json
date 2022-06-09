@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "origins-delight",
+  "version": "1.0.0",
+
+  "name": "Origins Delight",
+  "description": "Adds compatibility for Farmer's Delight, Expanded Delight, Farmer's Knives, Origins, and Extra Origins.",
+  "authors": [
+    "ninjaeagle1000"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ninjaeagle1000",
+    "sources": "https://github.com/ninjaeagle1000/origins-delight"
+  },
+  "license": "GNU GPLv2",
+  "icon": "pack.png",
+
+  "environment": "*",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.18-beta.5"
+  }
+}
